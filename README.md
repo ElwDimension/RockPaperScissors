@@ -1,0 +1,1 @@
+This is a javascript program using various functions to create a five round game of Rock, Paper, Scissors that takes user input and puts it against randomized computer choices to see who wins. It also announces the score at the end.
